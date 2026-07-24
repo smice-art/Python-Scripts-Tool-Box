@@ -4,11 +4,10 @@ A collection of little helper tools, based on python for Blender.
 ## Documentation
 There is no explicit documentation on this scripts.
 
-
 | Object | Description | Preview |
 | :--- | :--- | :--- |
-| **[MATERIAL](./MaterialChecker/)** | this add-on enables a very quick change of materials . |
-| **[CHAOS](./ChaosSymmetry/)** | a add-on to build choas attractors. |
+| **[AUTO RENDER](./render%material/)** | this script renders all material previews in the back . |
+| **[new](./ChaosSymmetry/)** | comming soon. |
 
 ## Release Notes
 
