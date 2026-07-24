@@ -6,5 +6,5 @@ some developing versions.
 
 # Instruction
 
-load the script in the blender txt enviroment, be sure that all your materials have a proper UV material connect socket. press run and all previews are going to be rendered in a blender tmo folder. 
+load the script in the blender txt enviroment, be sure that all your materials have a proper UV material connect socket. press run and all previews are going to be rendered in a blender tmp folder. 
 check the settings in the beginig of those files
