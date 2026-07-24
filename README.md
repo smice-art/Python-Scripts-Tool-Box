@@ -6,7 +6,7 @@ There is no explicit documentation on this scripts.
 
 | Object | Description | Preview |
 | :--- | :--- | :--- |
-| **[AUTO RENDER](./render%material/)** | this script renders all material previews in the back . |
+| **[AUTO RENDER](./render%20material/)** | this script renders all material previews in the back . |
 | **[new](./ChaosSymmetry/)** | comming soon. |
 
 ## Release Notes
