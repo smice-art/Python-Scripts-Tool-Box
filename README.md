@@ -18,4 +18,4 @@ There is no explicit documentation on this scripts.
 ### v1.0.0 (July 26, 2026)
 - **Publishing**: First public upload of those scripts
 
-<iframe jsname="WMhH6e" src="https://www.gstatic.com/atari/embeds/8306a3600875750e6acc147fd93569bf/intermediate-frame-minified.html" class=" YMEQtf" frameborder="0" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-storage-access-by-user-activation" id="3c84a321295a056_118" name="3c84a321295a056_118" scrolling="no"></iframe>
+<iframe style="width: 100%; height: 500px; overflow: hidden;" src="https://smice.art/galleries/eisenscript/" width="100" height="100" scrolling="no">Iframes not supported</iframe>
