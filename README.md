@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/tools.jpg" alt="toolbox" width="100%">
+</p>
+
 # Python Scripts Tool-Box
 A collection of little helper tools, based on python for Blender.
 
