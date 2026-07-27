@@ -1,6 +1,6 @@
 # Kleinian Trials
 
-those 5 little scripts are generating this little tools help you to build kleinian fractals in blender in a couple of variations. 
+those 5 little scripts helping you to build kleinian fractals in blender in a couple of variations. 
 
 # Background
 
