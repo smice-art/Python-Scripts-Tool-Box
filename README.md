@@ -11,8 +11,8 @@ There is no explicit documentation on this scripts, look inside the certain fold
 | Object | Description | Preview |
 | :--- | :--- | :--- |
 | **[AUTO RENDER](./render%20material/)** | this script renders all material previews in the back. |
-| **[AUTO RENAME](./wave%20material/)** | this script renames all materials in once. |
-| **[WAVE](./rename%20material/)** | this script makes a nice wave material. |
+| **[AUTO RENAME](./rename%20material/)** | this script renames all materials in once. |
+| **[WAVE](./wave%20material/)** | this script makes a nice wave material. |
 | **[BASHEBA](./basheba/)** | this script generates a Basheba Style Object. |
 | **[APPOLONIAN](./apollonian/)** | this script makes an simple Apollonian Gasket Mesh. |
 
