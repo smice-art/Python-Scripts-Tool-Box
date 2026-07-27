@@ -15,6 +15,7 @@ There is no explicit documentation on this scripts, look inside the certain fold
 | **[WAVE](./wave%20material/)** | this script makes a nice wave material. |
 | **[BASHEBA](./basheba/)** | this script generates a Basheba Style Object. |
 | **[APPOLONIAN](./apollonian/)** | this script makes an simple Apollonian Gasket Mesh. |
+| **[KLEINIAN](./kleinian/)** | this script makes various simple Kleinian Fractals. |
 
 ## Release Notes
 
