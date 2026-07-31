@@ -8,7 +8,7 @@ A collection of little helper tools, based on python for Blender.
 ## Documentation
 There is no explicit documentation on this scripts, look inside the certain folders for a further instruction or a screenshot.
 
-| Object | Description | Preview |
+| Object | Description | -- |
 | :--- | :--- | :--- |
 | **[AUTO RENDER](./render%20material/)** | this script renders all material previews in the back. |
 | **[AUTO RENAME](./rename%20material/)** | this script renames all materials in once. |
