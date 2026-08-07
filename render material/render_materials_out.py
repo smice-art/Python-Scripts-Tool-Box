@@ -14,7 +14,7 @@ import bpy
 import os
 
 # --- CONFIG ---------------------------------------------------------------
-OUTPUT_DIR = "/Users/claudiowabner/blender/tmp"
+OUTPUT_DIR = "/Users/XXXXXXXXX/blender/tmp"
 RESOLUTION = 1000                # width & height in pixels
 FILE_FORMAT = 'JPEG'
 JPEG_QUALITY = 90                # 0-100
