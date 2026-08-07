@@ -16,8 +16,8 @@ There is no explicit documentation on this scripts, look inside the certain fold
 | **[BASHEBA](./basheba/)** | this script generates a Basheba Style Object. |
 | **[APPOLONIAN](./apollonian/)** | this script makes an simple Apollonian Gasket Mesh. |
 | **[KLEINIAN](./kleinian/)** | this script makes various simple Kleinian Fractals. |
-| **[BAKETOOL](./kleinian/)** | this script bakes a Geometry node setup with animation in one click. |
-| **[QUICKANIM](./kleinian/)** | this script helps you with animation along a path. |
+| **[BAKETOOL](./bake_geometrynode_animation/)** | this script bakes a Geometry node setup with animation in one click. |
+| **[QUICKANIM](./quick_animation/)** | this script helps you with animation along a path. |
 
 ## Release Notes
 
