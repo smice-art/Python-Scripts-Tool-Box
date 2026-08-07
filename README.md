@@ -19,6 +19,7 @@ There is no explicit documentation on this scripts, look inside the certain fold
 | **[BAKETOOL](./bake_geometrynode_animation/)** | this script bakes a Geometry node setup with animation in one click. |
 | **[QUICKANIM](./quick_animation/)** | this script helps you with animation along a path. |
 | **[RANDOM COLOR](./random_color_range/)** | this script helps you to assign random colors on each face. |
+| **[CIRCLEANIMATION](./circle_animation/)** | this script make a funny small animation. |
 
 ## Release Notes
 
