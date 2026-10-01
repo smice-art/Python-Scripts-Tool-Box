@@ -12,12 +12,12 @@ if you like you can use Geometry Nodes as shown in the Screenshot to adjust Mate
 
 ### Parameters
 
-N_POINTS    		= 10000
-SPEED       		= 3             # animation speed: 1, 3, 5, 10 ... (any number > 0)
-BASE_FRAMES = 2400          # loop length at SPEED = 1
-FRAME_START 	= 1
-FPS         			= 24
-LINEAR      		= True          # True = constant speed, False = original (eased) timing
+* N_POINTS    	= 10000
+* SPEED       	= 3             # animation speed: 1, 3, 5, 10 ... (any number > 0)
+* BASE_FRAMES   = 2400          # loop length at SPEED = 1
+* FRAME_START 	= 1
+* FPS         	= 24
+* LINEAR      	= True          # True = constant speed, False = original (eased) timing
 
 ### Video
-https://youtube.com/shorts/NH7tj5i_zrE?si=uLfzJ1-3gQ7xFZMw
+[Watch the YouTube Short](https://youtube.com/shorts/NH7tj5i_zrE)
