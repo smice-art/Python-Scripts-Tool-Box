@@ -20,4 +20,5 @@ if you like you can use Geometry Nodes as shown in the Screenshot to adjust Mate
 * LINEAR      	= True          # True = constant speed, False = original (eased) timing
 
 ### Video
-[Watch the YouTube Short](https://youtube.com/shorts/NH7tj5i_zrE)
+[![Watch the YouTube Short](https://youtube.com)](https://youtube.com/shorts/NH7tj5i_zrE)
+
