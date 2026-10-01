@@ -20,10 +20,5 @@ if you like you can use Geometry Nodes as shown in the Screenshot to adjust Mate
 * LINEAR      	= True          # True = constant speed, False = original (eased) timing
 
 ### Video
-<p align="center">
-  <a href="https://youtube.com">
-    <img src="https://youtube.com" alt="Watch the YouTube Short" width="400">
-    <br>
-    ▶️ <b>Short auf YouTube ansehen</b>
-  </a>
-</p>
+[![Watch the YouTube Short](https://youtube.com)](https://youtube.com)
+
