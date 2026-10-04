@@ -19,9 +19,3 @@ if you like you can use Geometry Nodes as shown in the Screenshot to adjust Mate
 * FPS         	= 24
 * LINEAR      	= True          # True = constant speed, False = original (eased) timing
 
-### Video
-
-Click the Image to watch the Video
-
-[![Watch the YouTube Short](oct.jpeg)](https://youtu.be/NH7tj5i_zrE?si=dzAm7GD5M3tHIerV)
-
